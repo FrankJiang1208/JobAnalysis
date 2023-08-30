@@ -3,5 +3,5 @@ boto3
 pandas
 nltk
 numpy
-sklearn
+scikit-learn
 matplotlib
